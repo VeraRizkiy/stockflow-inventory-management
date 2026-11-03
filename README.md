@@ -17,11 +17,11 @@ Portfolio dummy project berupa web application untuk simulasi pengelolaan persed
 PHP 8+, MySQL, HTML, CSS, JavaScript (browser print), PDO.
 
 ## Cara menjalankan di XAMPP
-1. Ekstrak folder `sampoerna_inventory_system` ke `C:\xampp\htdocs\`.
+1. Ekstrak folder `inventory_system` ke `C:\xampp\htdocs\`.
 2. Jalankan **Apache** dan **MySQL** dari XAMPP Control Panel.
 3. Buka `http://localhost/phpmyadmin`.
 4. Pilih menu **Import**, unggah file `database.sql`, lalu klik **Import**.
-5. Buka `http://localhost/sampoerna_inventory_system/login.php`.
+5. Buka `http://localhost/inventory_system/login.php`.
 6. Login menggunakan:
    - Username: `admin`
    - Password: `admin123`
