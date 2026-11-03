@@ -28,7 +28,7 @@ PHP 8+, MySQL, HTML, CSS, JavaScript (browser print), PDO.
 
 ## Struktur folder
 ```text
-sampoerna_inventory_system/
+inventory_system/
 ├── assets/style.css
 ├── config/database.php
 ├── includes/auth.php
